@@ -10,7 +10,10 @@
 ## 💻 𝕋𝕖𝕔𝕟𝕠𝕝𝕠𝕘𝕚𝕒𝕤 𝕖 𝔽𝕖𝕣𝕣𝕒𝕞𝕖𝕟𝕥𝕒𝕤
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>
-            
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />    
+
 ## 📩 𝔼𝕟𝕥𝕣𝕖 𝕖𝕞 𝕔𝕠𝕟𝕥𝕒𝕥𝕠
 <div>
 <a href = "mailto:isabellimendoncacpoliveira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
