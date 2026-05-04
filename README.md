@@ -28,6 +28,8 @@
 
 Currently making progress in my studies with **Python** and **SQL**, demonstrating comprehension through exercises published daily on GitHub.
 
+I have knowledge of operating systems, especially **Linux**, having even installed and used **Arch Linux** for a while.
+
 I also have ease and knowledge with **JavaScript**, **MongoDB**, **MySQL**, **Git**, and **ERP**, I'm interested in enhancing my professional development with more real projects.
 
 <img align="right" width="240px" src="https://github.com/ryuIisa/ryuIisa/blob/e93f1117a0af4b44265563e20e939444eb5c992c/Moodboard.jpeg" alt="character"/>
